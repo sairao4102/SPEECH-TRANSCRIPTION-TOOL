@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Speech Recognition System</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>TASK 2</h1>
+  <h1>🎤 Speech Recognition System</h1>
+
+  <div class="controls">
+    <input type="file" id="fileInput" accept="audio/*" style="margin-left: 85px;">
+    <br>
+    <button onclick="uploadAudio()" style="border-radius: 20px; margin-top: 20px;">Upload & Transcribe</button>
+    <br><br>
+    <button onclick="startRecording()" style="border-radius: 20px;">🎙 Start Recording</button>
+    <button onclick="stopRecording()" style="border-radius: 20px;">🛑 Stop & Transcribe</button><br>
+    <span id="recordingIndicator" style="display:none; font-size: 24px;">🔴 Recording...</span>
+  </div>
+
+  <audio id="audioPlayer" controls style="display:none; margin-left: 260px; border-radius: 20px;" ></audio>
+
+  <div id="transcriptBox" style="display:none;">
+    <h3>📝 Transcript:</h3>
+    <p id="transcriptText"></p>
+    <button id="downloadLink" style="display:none; margin-left: 300px;border-radius: 20px;">Download Transcript</button>
+  </div>
+  </div>
+
+  <script src="/static/script.js"></script>
+</body>
+</html>
