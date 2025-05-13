@@ -25,3 +25,4 @@ This is a **Speech Transcription Tool** developed to transcribe audio files into
 3. **Download Option**: After transcription, the user can download the transcript as a text file.
 4. **Real-Time Recording**: Users can also record their own audio directly through the browser and get it transcribed.
 
+This project was developed as part of my internship at ** CODTECH IT Solutions** (Task 2).
