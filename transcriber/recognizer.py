@@ -1,5 +1,5 @@
-# This script uses the SpeechRecognition library to transcribe audio files.
-# It supports various audio formats and converts them to WAV format if necessary.
+"""This script uses the SpeechRecognition library to transcribe audio files.
+It supports various audio formats and converts them to WAV format if necessary."""
 
 # Importing necessary libraries
 import speech_recognition as sr
