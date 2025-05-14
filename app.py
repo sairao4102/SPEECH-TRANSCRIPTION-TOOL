@@ -1,4 +1,4 @@
-# This code is a simple Flask web application that allows users to upload audio files for transcription.
+"""This code is a simple Flask web application that allows users to upload audio files for transcription."""
 
 from flask import Flask, render_template, request, send_file, jsonify
 import os
