@@ -64,6 +64,9 @@ python app.py
 Access the Application:
 Web Interface: Open [http://127.0.0.1:5000] in your browser
 
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/18863849-ecac-4229-bcaa-bef9c9c2f2cb)
+
 
 
 
