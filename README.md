@@ -30,7 +30,7 @@ This is a **Speech Transcription Tool** developed to transcribe audio files into
 ### 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
+git clone [https://github.com/sairao4102/SPEECH-TRANSCRIPTION-TOOL.git]
 cd GPT-TEXT-GENERATOR-TOOL
 ```
 
@@ -53,4 +53,4 @@ Web Interface: Open [http://127.0.0.1:5000] in your browser
 
 
 
-This project was developed as part of my internship at ** CODTECH IT Solutions** (Task 2).
+--> This project was developed as part of my internship at ** CODTECH IT Solutions** (Task 2).
