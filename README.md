@@ -1,5 +1,19 @@
 # Speech Transcription Tool
 
+**COMPANY**: CODTECH IT SOLUTIONS
+
+**NAME**: KIRANSAI AREPELLI
+
+**INTERN ID**: C0DF51
+
+**DOMAIN**: Artificial Intelligence Markup Language
+
+**DURATION**: 4 WEEKS
+
+**MENTOR**: NEELA SANTOSH KUMAR
+
+## Description
+
 This is a **Speech Transcription Tool** developed to transcribe audio files into text using speech recognition. The tool supports various audio formats such as WAV, MP3, FLAC, and AIFF, and provides a simple interface for uploading and transcribing audio files. It also allows real-time recording through the browser and transcribes the recorded audio.
 
 ## Features
