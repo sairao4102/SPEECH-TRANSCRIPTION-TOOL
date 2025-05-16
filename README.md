@@ -25,4 +25,32 @@ This is a **Speech Transcription Tool** developed to transcribe audio files into
 3. **Download Option**: After transcription, the user can download the transcript as a text file.
 4. **Real-Time Recording**: Users can also record their own audio directly through the browser and get it transcribed.
 
+##  How to Use
+
+### 1. **Clone the repository**
+
+```bash
+git clone https://github.com/sairao4102/GPT-TEXT-GENERATOR-TOOL.git
+cd GPT-TEXT-GENERATOR-TOOL
+```
+
+### 2.  Requirements
+
+Install all dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+### 3. **Run the application**
+
+```bash
+python app.py
+```
+
+Access the Application:
+Web Interface: Open [http://127.0.0.1:5000] in your browser
+
+
+
+
 This project was developed as part of my internship at ** CODTECH IT Solutions** (Task 2).
